@@ -8,7 +8,7 @@ I graduated from the Civil Aviation Training Center and have been dedicatedly le
 
 * 🌍  I'm based in Ratchaburi, Thailand
 * ✉️  You can contact me at [t.vachirawit28@gmail.com](mailto:t.vachirawit28@gmail.com)
-* 🧠  I'm learning React, Redux
+* 🧠  I'm learning Angular, Typescript
 
 ### Skills
 
